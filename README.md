@@ -1,12 +1,12 @@
 # Mini_Project-Basic-Linux-Commands
 
-## This implimentation is on hands on basic Linux commands.
-### Basic tools used for this project are;
+## This implementation focuses on hands-on practice with basic Linux commands.
+### The basic tools used for this project are:
 - GitBash
 - GitHub and
 - Visual Studeo code as well as Markdown for documentation
 
-## Bellow are the various screenshots that contains the various basic commands;
+## Below are the screenshots demonstrating various basic commands:
 
 ### Manipulating files and Directories on Linux
 - The `sudo` command: `sudo` stand for `superuser do,` and it allows you to run commands with the security privileges of another user, typically the superuser or `root`.
